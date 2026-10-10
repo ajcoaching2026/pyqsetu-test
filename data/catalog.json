@@ -1,0 +1,321 @@
+{
+ "updated": "2026-10-10",
+ "subjects": [
+  {
+   "id": "hindi",
+   "name": "हिंदी",
+   "icon": "अ",
+   "boards": {
+    "RPSC": [
+     {
+      "id": "hi-01",
+      "name": "शब्द-युग्म",
+      "count": 40
+     },
+     {
+      "id": "hi-02",
+      "name": "पर्यायवाची",
+      "count": 30
+     },
+     {
+      "id": "hi-03",
+      "name": "संज्ञा",
+      "count": 20
+     },
+     {
+      "id": "hi-04",
+      "name": "वाक्य-शुद्धि",
+      "count": 70
+     },
+     {
+      "id": "hi-05",
+      "name": "वाक्य रचना (भेद)",
+      "count": 50
+     },
+     {
+      "id": "hi-06",
+      "name": "वाच्य",
+      "count": 20
+     },
+     {
+      "id": "hi-07",
+      "name": "वृति",
+      "count": 10
+     },
+     {
+      "id": "hi-08",
+      "name": "कारक",
+      "count": 20
+     },
+     {
+      "id": "hi-09",
+      "name": "तत्सम-तद्भव & देशज-विदेशी",
+      "count": 70
+     },
+     {
+      "id": "hi-10",
+      "name": "विलोम शब्द",
+      "count": 30
+     },
+     {
+      "id": "hi-11",
+      "name": "मुहावरा",
+      "count": 50
+     },
+     {
+      "id": "hi-12",
+      "name": "विराम चिह्न",
+      "count": 50
+     },
+     {
+      "id": "hi-13",
+      "name": "सर्वनाम",
+      "count": 30
+     },
+     {
+      "id": "hi-14",
+      "name": "विशेषण",
+      "count": 20
+     },
+     {
+      "id": "hi-15",
+      "name": "शब्द-शुद्धि",
+      "count": 80
+     },
+     {
+      "id": "hi-16",
+      "name": "काल",
+      "count": 20
+     },
+     {
+      "id": "hi-17",
+      "name": "प्रत्यय",
+      "count": 20
+     },
+     {
+      "id": "hi-18",
+      "name": "पारिभाषिक शब्द",
+      "count": 100
+     },
+     {
+      "id": "hi-19",
+      "name": "समास",
+      "count": 20
+     },
+     {
+      "id": "hi-20",
+      "name": "संधि & संधि विच्छेद",
+      "count": 40
+     },
+     {
+      "id": "hi-21",
+      "name": "उपसर्ग",
+      "count": 20
+     },
+     {
+      "id": "hi-22",
+      "name": "लोकोक्ति",
+      "count": 50
+     },
+     {
+      "id": "hi-23",
+      "name": "अव्यय",
+      "count": 40
+     },
+     {
+      "id": "hi-24",
+      "name": "वचन",
+      "count": 20
+     },
+     {
+      "id": "hi-25",
+      "name": "लिंग",
+      "count": 20
+     },
+     {
+      "id": "hi-26",
+      "name": "क्रिया",
+      "count": 20
+     },
+     {
+      "id": "hi-27",
+      "name": "पक्ष",
+      "count": 10
+     },
+     {
+      "id": "hi-28",
+      "name": "वाक्यांश के लिए एक शब्द",
+      "count": 30
+     }
+    ],
+    "RSSB": []
+   }
+  },
+  {
+   "id": "rj-geo",
+   "name": "राजस्थान भूगोल",
+   "icon": "🏜️",
+   "boards": {
+    "RPSC": [],
+    "RSSB": []
+   }
+  },
+  {
+   "id": "rj-his",
+   "name": "राजस्थान इतिहास",
+   "icon": "🏰",
+   "boards": {
+    "RPSC": [],
+    "RSSB": []
+   }
+  },
+  {
+   "id": "rj-art",
+   "name": "कला एवं संस्कृति",
+   "icon": "🎨",
+   "boards": {
+    "RPSC": [],
+    "RSSB": []
+   }
+  },
+  {
+   "id": "polity",
+   "name": "भारतीय राजव्यवस्था",
+   "icon": "⚖️",
+   "boards": {
+    "RPSC": [],
+    "RSSB": []
+   }
+  },
+  {
+   "id": "science",
+   "name": "सामान्य विज्ञान",
+   "icon": "🔬",
+   "boards": {
+    "RPSC": [],
+    "RSSB": []
+   }
+  },
+  {
+   "id": "reasoning",
+   "name": "तर्कशक्ति एवं गणित",
+   "icon": "🧮",
+   "boards": {
+    "RPSC": [],
+    "RSSB": []
+   }
+  }
+ ],
+ "mocks": [
+  {
+   "id": "si-mock-01",
+   "name": "SI 2021 (Re-exam) Mock 1",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-1",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  },
+  {
+   "id": "si-mock-02",
+   "name": "SI 2021 (Re-exam) Mock 2",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-2",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  },
+  {
+   "id": "si-mock-03",
+   "name": "SI 2021 (Re-exam) Mock 3",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-3",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  },
+  {
+   "id": "si-mock-04",
+   "name": "SI 2021 (Re-exam) Mock 4",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-4",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  },
+  {
+   "id": "si-mock-05",
+   "name": "SI 2021 (Re-exam) Mock 5",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-5",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  },
+  {
+   "id": "si-mock-06",
+   "name": "SI 2021 (Re-exam) Mock 6",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-6",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  },
+  {
+   "id": "si-mock-07",
+   "name": "SI 2021 (Re-exam) Mock 7",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-7",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  },
+  {
+   "id": "si-mock-08",
+   "name": "SI 2021 (Re-exam) Mock 8",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-8",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  },
+  {
+   "id": "si-mock-09",
+   "name": "SI 2021 (Re-exam) Mock 9",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-9",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  },
+  {
+   "id": "si-mock-10",
+   "name": "SI 2021 (Re-exam) Mock 10",
+   "paper": "हिंदी",
+   "header": "SI_Mock Test-10",
+   "minutes": 120,
+   "pos": 2.0,
+   "neg": 0.66,
+   "optionE": "अनुत्तरित प्रश्न",
+   "count": 100
+  }
+ ]
+}
